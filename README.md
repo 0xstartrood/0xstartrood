@@ -44,7 +44,7 @@
   <img src="https://raw.githubusercontent.com/0xstartrood/0xstartrood/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </picture>
 ###
-<h2 align="left">Pac-Man eats my contributions 👻</h2>
+<h2 align="left">READY TO PLAY? HUFFTT! 👻</h2>
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xstartrood/0xstartrood/output/pacman-contribution-graph-dark.svg" />
