@@ -72,7 +72,7 @@
 
 <!-- Ganti USER_ID_SPOTIFY di bawah dengan ID Spotify kamu kalau mau aktifin ini, contoh punya referensi: 31ecde5pvzfmdl56hllqv4avn4ne -->
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=USER_ID_SPOTIFY) -->
-<p align="left"><i>Spotify recently played — belum diaktifkan. Kasih tau ID Spotify kamu, nanti kuaktifin </i></p>
+<p align="left"><i>Spotify recently played — needed configuration </i></p>
 
 ###
 
