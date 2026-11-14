@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">• Always active on Discord, Telegram and X<br>• Alpha Hunter<br>• Beta Tester<br>• AI Agent & Web3 Explorer — BSC / Solana / Base<br>• Building bots, trackers & automation<br>• Agent ID: <b>startrood.ai</b> • X: <a href="https://x.com/startrood_0x">@startrood_0x</a></p>
+<p align="left">• Always active on Discord, Telegram and X<br>• Alpha Hunter<br>• Beta Tester<br>• AI Agent & Web3 Explorer — BSC / Solana / Base<br>• Building bots, trackers & automation<br>•  X: <a href="https://x.com/startrood_0x">@startrood_0x</a></p>
 
 ###
 
